@@ -1,6 +1,7 @@
 ---
-title: Nelson Potato
-role: Professor of Artificial Intelligence
+title: Max Serra Lasierra
+role: "MSc in Data Science student "
+avatar_filename: photo-2020-12-27-15-39-16.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -8,7 +9,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
+  - icon: at
     icon_pack: fas
     link: /#contact
   - icon: twitter
