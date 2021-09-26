@@ -14,12 +14,12 @@ social:
     link: /#contact
     display:
       header: false
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/maxserra
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maxserra/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/maxserra
 organizations:
   - name: University of Potsdam
     url: https://www.uni-potsdam.de/en
