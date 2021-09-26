@@ -12,32 +12,25 @@ social:
   - icon: at
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    display:
+      header: false
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/maxserra
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/maxserra/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Potsdam
+    url: https://www.uni-potsdam.de/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Data Sicence
+      institution: University of Potsdam
+      year: ""
+    - course: BSc in Physics
+      institution: University of Barcelona
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
