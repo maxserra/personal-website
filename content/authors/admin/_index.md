@@ -1,5 +1,5 @@
 ---
-title: Max Serra Lasierra
+title: Nelson Potato
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
