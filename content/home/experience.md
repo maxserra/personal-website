@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research and Development Engineer
     company: GenCoin
-    company_url: ''
+    company_url: 'https://www.fft.de/'
     company_logo: FFT_logo
     location: Bremen
     date_start: '2019-06-01'
@@ -38,7 +38,7 @@ experience:
         
   - title: Internship - Engineer in R&D and Embedded Systems
     company: FFT Produktionssysteme GmbH
-    company_url: ''
+    company_url: 'https://www.fft.de/'
     company_logo: FFT_logo
     location: Bremen
     date_start: '2018-06-15'
