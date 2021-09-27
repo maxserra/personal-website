@@ -5,13 +5,14 @@ avatar_filename: "avatar.jpg"
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Data Science
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Blockchain & DeFi
+  - IOT, IIOT and the Economy of Things
 social:
   - icon: at
     icon_pack: fas
-    link: /#contact
+    link: /contact
     display:
       header: false
   - icon: linkedin
@@ -27,11 +28,11 @@ education:
   courses:
     - course: MSc in Data Sicence
       institution: University of Potsdam
-      year: ""
+      year: "present"
     - course: BSc in Physics
       institution: University of Barcelona
-      year: ""
-email: ""
+      year: "2019"
+email: "mserralasierra@gmail.com"
 superuser: true
 highlight_name: true
 ---

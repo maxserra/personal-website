@@ -20,30 +20,37 @@ date_format: Jan 2006
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Begin multi-line descriptions with YAML's `>-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: MSc in Data Science
+    company: University of Potsdam
+    company_url: 'https://www.uni-potsdam.de/en'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Potsdam
+    date_start: '2021-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: MicroMaster in Statistics and Data Science
+    company: Massachusetts Institute of Technology, online via edX
+    company_url: 'https://micromasters.mit.edu/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Cambridge, MA
+    date_start: '2019-04-15'
+    date_end: '2020-07-09'
+    description: |2-
+        - <a href='https://credentials.edx.org/records/programs/shared/8cb065871baf42c9b5fdacfd54c844f1/' target='_blank'>See course record</a>.
+        
+  - title: BSc in Physics
+    company: University of Barcelona
+    company_url: 'https://www.ub.edu/web/portal/ca/'
+    company_logo: org-x
+    location: Barcelona
+    date_start: '2014-04-15'
+    date_end: '2019-01-25'
+    description: |2-
+        - Pathway: Fundamental Physics
+        - Thesis: Interaction of SAW with the nuclear spin
 
 design:
   columns: '2'
