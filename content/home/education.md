@@ -25,7 +25,7 @@ experience:
   - title: MSc in Data Science
     company: University of Potsdam
     company_url: 'https://www.uni-potsdam.de/en'
-    company_logo: org-gc
+    company_logo: Uni_Potsdam_logo
     location: Potsdam
     date_start: '2021-10-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: MicroMaster in Statistics and Data Science
     company: Massachusetts Institute of Technology, online via edX
     company_url: 'https://micromasters.mit.edu/'
-    company_logo: org-x
+    company_logo: MIT_logo
     location: Cambridge, MA
     date_start: '2019-04-15'
     date_end: '2020-07-09'
@@ -44,7 +44,7 @@ experience:
   - title: BSc in Physics
     company: University of Barcelona
     company_url: 'https://www.ub.edu/web/portal/ca/'
-    company_logo: org-x
+    company_logo: Uni_Barcelona_logo
     location: Barcelona
     date_start: '2014-04-15'
     date_end: '2019-01-25'
