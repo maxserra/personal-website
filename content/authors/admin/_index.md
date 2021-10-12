@@ -1,6 +1,6 @@
 ---
 title: Max Serra Lasierra
-role: "MSc in Data Science student "
+role: "MSc in Data Science student <br> BSc in Physics | R&D Engineer"
 avatar_filename: "avatar.jpg"
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -37,8 +37,6 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Physics graduate with 3 years of experience in R&D engineering and embedded SW and HW development. I am interested in researching the potentials and pitfalls of Artifical Intelligence, with the goal of enabling safe, reliable and beneficial AI that can be seemlesly integrated in society. During my MSc in Data Science at the University of Potsdam I want to dive into the explainability of Machine Learning models.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< staticref "uploads/CV_Max_Serra_Lasierra.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} Download my CV{{< /staticref >}}.

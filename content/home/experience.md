@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research and Development Engineer
-    company: GenCoin
+    company: FFT Produktionssysteme GmbH
     company_url: 'https://www.fft.de/'
     company_logo: FFT_logo
     location: Bremen

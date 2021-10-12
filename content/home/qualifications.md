@@ -23,29 +23,45 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: "uploads/IELTS_results.pdf"
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-03-20"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  organization: British Council
+  organization_url: https://www.britishcouncil.de/
+  title: IELTS Academic
+  url: https://www.britishcouncil.de/en/exam/ielts
+- certificate_url: https://courses.edx.org/certificates/e9bee2eaf6a34c78a3490450211ec334
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  date_start: "2020-08-01"
+  description: ""
   organization: edX
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  title: "18.6501x: Fundamentals of Statistics"
+  url: ""
+- certificate_url: https://courses.edx.org/certificates/2d120e12772349cb99069cfa64dbfe57
+  date_end: ""
+  date_start: "2020-04-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: edX
+  organization_url: https://www.edx.org
+  title: "6.86x: Machine Learning with Python-From Linear Models to Deep Learning"
+  url: ""
+- certificate_url: https://courses.edx.org/certificates/fd460f7b749c42829ced22ccf99161cd
+  date_end: ""
+  date_start: "2019-12-01"
+  description: ""
+  organization: edX
+  organization_url: https://www.edx.org
+  title: "14.310Fx: Data Analysis in Social Science"
+  url: ""
+- certificate_url: https://courses.edx.org/certificates/bd3cd4f864d24113ac18fb7f287cc548
+  date_end: ""
+  date_start: "2019-08-01"
+  description: ""
+  organization: edX
+  organization_url: https://www.edx.org
+  title: "6.431x: Probability - The Science of Uncertainty and Data"
   url: ""
 
 design:
