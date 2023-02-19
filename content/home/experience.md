@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Science Working Student 
+    company: FactoryPal
+    company_url: https://www.factorypal.com/
+    company_logo: FP_logo
+    location: Berlin
+    date_start: '2021-12-01'
+    date_end: ''
+    description: |2-
+        - Analysed the adoption of our algorithm recommendations by the shopfloor operators.
+        - Researched the regime dependent performance of multiple models and designed a feature for semi-dynamic recommendations that capture the current state of the production line.
+        - Day-to-day data science tasks; fixing bugs and implementing features to keep our pipelines running.
+
   - title: Research and Development Engineer
     company: FFT Produktionssysteme GmbH
     company_url: 'https://www.fft.de/'

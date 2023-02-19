@@ -30,7 +30,16 @@ experience:
     date_start: '2021-10-01'
     date_end: ''
     description:
-        
+
+  - title: Visiting student - Causal Inference
+    company: Technische Universität Berlin
+    company_url: 'https://www.tu.berlin/en/'
+    company_logo: TUB_logo
+    location: Berlin
+    date_start: '2022-09-01'
+    date_end: '2023-02-01'
+    description:
+
   - title: MicroMaster in Statistics and Data Science
     company: Massachusetts Institute of Technology, online via edX
     company_url: 'https://micromasters.mit.edu/'
