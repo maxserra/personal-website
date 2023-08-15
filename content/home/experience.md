@@ -38,7 +38,7 @@ experience:
     company_logo: FP_logo
     location: Berlin
     date_start: '2021-12-01'
-    date_end: ''
+    date_end: '2023-05-31'
     description: |2-
         - Analysed the adoption of our algorithm recommendations by the shopfloor operators.
         - Researched the regime dependent performance of multiple models and designed a feature for semi-dynamic recommendations that capture the current state of the production line.
