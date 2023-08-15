@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research collaboration / Master project 
+    company: SFB 1294, University of Potsdam, Potsdam
+    company_url: http://dewiljes-lab.com/
+    company_logo: Uni_Potsdam_logo
+    location: Potsdam
+    date_start: '2023-02-01'
+    date_end: '2023-08-31'
+    description: |2-
+        - Analysing and extending existing regime dependent causal discovery algorithms for the non-linear case. Such algorithms are of great importance both in the geosciences and in personalised medicine, where seasons and treatments may change the underlying data generating process.
+
   - title: Data Science Working Student 
     company: FactoryPal
     company_url: https://www.factorypal.com/

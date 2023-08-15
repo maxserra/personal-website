@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `>-` multi-line prefix.
 experience:
+  - title: Exchange Student - MSc in Data Science
+    company: University of Technology Sydney
+    company_url: 'https://www.uts.edu.au/'
+    company_logo: UTS_logo
+    location: Sydney
+    date_start: '2023-07-25'
+    date_end: ''
+    description:
+
   - title: MSc in Data Science
     company: University of Potsdam
     company_url: 'https://www.uni-potsdam.de/en'
