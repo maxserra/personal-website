@@ -2,13 +2,12 @@
 title: Max Serra Lasierra
 role: "MSc in Data Science student <br> BSc in Physics | R&D Engineer"
 avatar_filename: "avatar.jpg"
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Max.
 interests:
-  - Data Science
-  - Artificial Intelligence
   - Blockchain & DeFi
-  - IOT, IIOT and the Economy of Things
+  - Climbing & Bouldering
+  - Surfing & Cycling
+  - Woodwork & Gardening
 social:
   - icon: at
     icon_pack: fas
@@ -37,6 +36,6 @@ superuser: true
 highlight_name: true
 ---
 
-I am a Physics graduate with 3 years of experience in R&D engineering and embedded SW and HW development. I am interested in researching the potentials and pitfalls of Artifical Intelligence, with the goal of enabling safe, reliable and beneficial AI that can be seemlesly integrated in society. During my MSc in Data Science at the University of Potsdam I want to dive into the explainability of Machine Learning models.
+I am a Physics graduate turned Data Scientist with 5+ years of working experience in industrial R&D and Data Science. I am passionate about RL, causal AI and the opportunities that GenAI is unlocking. I have worked on the end-to-end development of an IoT product, led a small team at 22 and hosted a series of workshops for the FactoryPal Data Science team. With an analytical mindset, I always strive to understand the bigger picture to solve problems pragmatically. I am a proactive person with a social conscience who loves to leverage data to make a positive difference.
 
 {{< staticref "uploads/CV_Max_Serra_Lasierra.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} Download my CV{{< /staticref >}}.

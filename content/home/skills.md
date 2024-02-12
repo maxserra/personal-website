@@ -21,21 +21,29 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: atom
+  icon: brain
   icon_pack: fas
-  name: Physics
-- description: 
-  icon: cogs
-  icon_pack: fas
-  name: R&D and Product Design
-- description:
-  icon: microchip
-  icon_pack: fas
-  name: Embedded SW and HW
+  name: AI and ML
 - description:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description:
+  icon: atom
+  icon_pack: fas
+  name: Physics
+- description:
+  icon: github
+  icon_pack: fas
+  name: Git and GitHub
+- description:
+  icon: cloud
+  icon_pack: fas
+  name: Docker, AWS and Heroku
+- description: 
+  icon: cogs
+  icon_pack: fas
+  name: R&D and Product Design
 - description: 
   icon: users
   icon_pack: fas
