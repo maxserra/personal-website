@@ -34,7 +34,7 @@ feature:
   name: Physics
 - description:
   icon: github
-  icon_pack: fas
+  icon_pack: fab
   name: Git and GitHub
 - description:
   icon: cloud
